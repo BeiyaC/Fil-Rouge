@@ -1,0 +1,36 @@
+h1 {
+    font-size: 100px;
+    margin-top: 0;
+    text-align: center;
+    color: green;
+}
+h2 {
+    text-align: center;
+    font-size: 100px;
+    color: rgb(22, 21, 21);
+}
+
+.lien {
+    display: flex;
+    justify-content: space-around;
+}
+
+.lien_support img {
+    width: 250px;
+    height: 250px;
+
+}
+
+.lien_eco img {
+    width: 250px;
+    height: 250px;
+}
+
+.lien_nume img {
+    width: 250px;
+    height: 250px;
+}
+body{
+    background-image: url("./Support/images/fil_rouge.jpg");
+    background-size: cover;
+}
