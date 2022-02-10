@@ -1,10 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap');
+
+
+
 h1 {
+    font-family: 'Festive', cursive;
     font-size: 100px;
     margin-top: 0;
     text-align: center;
     color: green;
 }
 h2 {
+    font-family:'Quintessential', cursive;
     text-align: center;
     font-size: 100px;
     color: rgb(22, 21, 21);
